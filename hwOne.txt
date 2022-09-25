@@ -1,2 +1,3 @@
 Hello World
 Hello, my name is Johnathan and I am working on hw1
+Hello, our names are "Amrita Sneha Ramakrishnan" and Johnathan Driscoll and we are working on hw3 together.
